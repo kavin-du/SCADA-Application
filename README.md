@@ -10,3 +10,5 @@
 
 ## 5. Access the UI via 
 `http://localhost:1880/ui`
+
+![image](https://user-images.githubusercontent.com/59405594/138625955-4b402c9c-c84c-4c43-a770-f07138b8dfc0.png)
